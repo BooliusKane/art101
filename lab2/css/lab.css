@@ -2,7 +2,7 @@
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
   h1{
-    color: darkcyan;
+    color: rgb(19, 191, 191);
     font-size: 150%;
     text-align: center;
   }
@@ -11,6 +11,7 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-indent: 20px;
     margin-left: 10px;
+    color: lightcoral;
   }
 
   #content {
